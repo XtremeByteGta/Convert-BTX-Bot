@@ -35,6 +35,7 @@ Want to run your own version of this bot? Here’s the step-by-step:
 
 2. **Install Dependencies**  
    Make sure you’ve got Python 3.7+. Then run:  
+   
              pip install python-telegram-bot aiohttp
 
 3. **Get a Bot Token**  
